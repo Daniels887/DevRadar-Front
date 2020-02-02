@@ -4,5 +4,6 @@
 
 ## Techs
 - Axios
+- Api de geolocalização do navegador
 
 > Que a força esteja com você
